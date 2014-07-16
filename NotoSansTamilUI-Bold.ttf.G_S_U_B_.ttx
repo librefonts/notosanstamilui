@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="taml"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=5 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="tml2"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=4 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="3"/>
+            <FeatureIndex index="3" value="4"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=5 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="haln"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="psts"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="3"/>
+          <LookupListIndex index="1" value="4"/>
+          <LookupListIndex index="2" value="9"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=12 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="katamil">
+            <Ligature components="viramatamil,ssatamil" glyph="tchatamil"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="catamil">
+            <Ligature components="viramatamil" glyph="caprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="hatamil">
+            <Ligature components="viramatamil" glyph="haprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="jatamil">
+            <Ligature components="viramatamil" glyph="japrehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="katamil">
+            <Ligature components="viramatamil" glyph="kaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="latamil">
+            <Ligature components="viramatamil" glyph="laprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="llatamil">
+            <Ligature components="viramatamil" glyph="llaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="lllatamil">
+            <Ligature components="viramatamil" glyph="lllaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="matamil">
+            <Ligature components="viramatamil" glyph="maprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="natamil">
+            <Ligature components="viramatamil" glyph="naprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ngatamil">
+            <Ligature components="viramatamil" glyph="ngaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnatamil">
+            <Ligature components="viramatamil" glyph="nnaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnnatamil">
+            <Ligature components="viramatamil" glyph="nnnaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nyatamil">
+            <Ligature components="viramatamil" glyph="nyaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="patamil">
+            <Ligature components="viramatamil" glyph="paprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ratamil">
+            <Ligature components="viramatamil" glyph="raprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="rratamil">
+            <Ligature components="viramatamil" glyph="rraprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="satamil">
+            <Ligature components="viramatamil" glyph="saprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="shatamil">
+            <Ligature components="viramatamil" glyph="shaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ssatamil">
+            <Ligature components="viramatamil" glyph="ssaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="tatamil">
+            <Ligature components="viramatamil" glyph="taprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="tchatamil">
+            <Ligature components="viramatamil" glyph="tchaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ttatamil">
+            <Ligature components="viramatamil" glyph="ttaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="vatamil">
+            <Ligature components="viramatamil" glyph="vaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="yatamil">
+            <Ligature components="viramatamil" glyph="yaprehalftamil"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="latamil">
+            <Ligature components="iivowelsigntamil" glyph="laiivowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ngatamil">
+            <Ligature components="iivowelsigntamil" glyph="ngaiivowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="patamil">
+            <Ligature components="iivowelsigntamil" glyph="paiivowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="saprehalftamil">
+            <Ligature components="ratamil,iivowelsigntamil" glyph="shritamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="satamil">
+            <Ligature components="iivowelsigntamil" glyph="saiivowelsigntamil"/>
+            <Ligature components="viramatamil,ratamil,iivowelsigntamil" glyph="shritamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ttatamil">
+            <Ligature components="iivowelsigntamil" glyph="ttaiivowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="yatamil">
+            <Ligature components="iivowelsigntamil" glyph="yaiivowelsigntamil"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="catamil">
+            <Ligature components="uvowelsigntamil" glyph="cauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="cauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="katamil">
+            <Ligature components="uvowelsigntamil" glyph="kauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="kauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="latamil">
+            <Ligature components="ivowelsigntamil" glyph="laivowelsigntamil"/>
+            <Ligature components="uvowelsigntamil" glyph="lauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="lauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="llatamil">
+            <Ligature components="uvowelsigntamil" glyph="llauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="llauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="lllatamil">
+            <Ligature components="uvowelsigntamil" glyph="lllauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="lllauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="matamil">
+            <Ligature components="uvowelsigntamil" glyph="mauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="mauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="natamil">
+            <Ligature components="uvowelsigntamil" glyph="nauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="nauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ngatamil">
+            <Ligature components="uvowelsigntamil" glyph="ngauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="ngauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnatamil">
+            <Ligature components="uvowelsigntamil" glyph="nnauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="nnauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnnatamil">
+            <Ligature components="uvowelsigntamil" glyph="nnnauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="nnnauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nyatamil">
+            <Ligature components="uvowelsigntamil" glyph="nyauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="nyauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="patamil">
+            <Ligature components="uvowelsigntamil" glyph="pauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="pauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ratamil">
+            <Ligature components="uvowelsigntamil" glyph="rauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="rauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="rratamil">
+            <Ligature components="uvowelsigntamil" glyph="rrauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="rrauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="satamil">
+            <Ligature components="ivowelsigntamil" glyph="saivowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="tatamil">
+            <Ligature components="uvowelsigntamil" glyph="tauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="tauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ttatamil">
+            <Ligature components="ivowelsigntamil" glyph="ttaivowelsigntamil"/>
+            <Ligature components="uvowelsigntamil" glyph="ttauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="ttauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="vatamil">
+            <Ligature components="iivowelsigntamil" glyph="vaiivowelsigntamil"/>
+            <Ligature components="uvowelsigntamil" glyph="vauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="vauuvowelsigntamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="yatamil">
+            <Ligature components="uvowelsigntamil" glyph="yauvowelsigntamil"/>
+            <Ligature components="uuvowelsigntamil" glyph="yauuvowelsigntamil"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="ivowelsigntamil"/>
+          </Coverage>
+          <BacktrackClassDef Format="2">
+            <ClassDef glyph="catamil" class="2"/>
+            <ClassDef glyph="hatamil" class="2"/>
+            <ClassDef glyph="katamil" class="1"/>
+            <ClassDef glyph="natamil" class="1"/>
+            <ClassDef glyph="ngatamil" class="3"/>
+            <ClassDef glyph="nyatamil" class="1"/>
+            <ClassDef glyph="patamil" class="3"/>
+            <ClassDef glyph="rratamil" class="2"/>
+            <ClassDef glyph="ssatamil" class="4"/>
+            <ClassDef glyph="tatamil" class="1"/>
+            <ClassDef glyph="tchatamil" class="4"/>
+            <ClassDef glyph="vatamil" class="3"/>
+            <ClassDef glyph="yatamil" class="3"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="1">
+            <ClassDef glyph="ivowelsigntamil" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="1">
+            <ClassDef glyph=".null" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=2 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=4 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="6"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+            <ChainSubClassRule index="1">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="2"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="5"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+            <ChainSubClassRule index="2">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="3"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="7"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+            <ChainSubClassRule index="3">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="4"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="8"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ivowelsigntamil" out="ivowelsign1tamil"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ivowelsigntamil" out="ivowelsign2tamil"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ivowelsigntamil" out="ivowelsign3tamil"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="ivowelsigntamil" out="ivowelsign4tamil"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="1">
+            <Glyph value="uvowelsigntamil"/>
+            <Glyph value="uuvowelsigntamil"/>
+          </Coverage>
+          <BacktrackClassDef Format="2">
+            <ClassDef glyph="ssatamil" class="1"/>
+            <ClassDef glyph="tchatamil" class="1"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="1">
+            <ClassDef glyph="uuvowelsigntamil" class="1"/>
+            <ClassDef glyph="uvowelsigntamil" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="1">
+            <ClassDef glyph=".null" class="1"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=2 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=1 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="1"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="10"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uuvowelsigntamil" out="uuvowelsignalttamil"/>
+          <Substitution in="uvowelsigntamil" out="uvowelsignalttamil"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="catamil">
+            <Ligature components="viramatamil" glyph="caprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="hatamil">
+            <Ligature components="viramatamil" glyph="haprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="jatamil">
+            <Ligature components="viramatamil" glyph="japrehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="katamil">
+            <Ligature components="viramatamil" glyph="kaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="latamil">
+            <Ligature components="viramatamil" glyph="laprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="llatamil">
+            <Ligature components="viramatamil" glyph="llaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="lllatamil">
+            <Ligature components="viramatamil" glyph="lllaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="matamil">
+            <Ligature components="viramatamil" glyph="maprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="natamil">
+            <Ligature components="viramatamil" glyph="naprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ngatamil">
+            <Ligature components="viramatamil" glyph="ngaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnatamil">
+            <Ligature components="viramatamil" glyph="nnaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnnatamil">
+            <Ligature components="viramatamil" glyph="nnnaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="nyatamil">
+            <Ligature components="viramatamil" glyph="nyaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="patamil">
+            <Ligature components="viramatamil" glyph="paprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ratamil">
+            <Ligature components="viramatamil" glyph="raprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="rratamil">
+            <Ligature components="viramatamil" glyph="rraprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="satamil">
+            <Ligature components="viramatamil" glyph="saprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="shatamil">
+            <Ligature components="viramatamil" glyph="shaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ssatamil">
+            <Ligature components="viramatamil" glyph="ssaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="tatamil">
+            <Ligature components="viramatamil" glyph="taprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="tchatamil">
+            <Ligature components="viramatamil" glyph="tchaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="ttatamil">
+            <Ligature components="viramatamil" glyph="ttaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="vatamil">
+            <Ligature components="viramatamil" glyph="vaprehalftamil"/>
+          </LigatureSet>
+          <LigatureSet glyph="yatamil">
+            <Ligature components="viramatamil" glyph="yaprehalftamil"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

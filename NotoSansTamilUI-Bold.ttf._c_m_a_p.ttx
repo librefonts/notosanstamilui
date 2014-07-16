@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name=".null"/><!-- &lt;control> -->
+      <map code="0xd" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam.tamil"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl.tamil"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign.tamil"/><!-- NUMBER SIGN -->
+      <map code="0x25" name="percent.tamil"/><!-- PERCENT SIGN -->
+      <map code="0x27" name="quotesingle.tamil"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft.tamil"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright.tamil"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk.tamil"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus.tamil"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma.tamil"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen.tamil"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period.tamil"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash.tamil"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero.tamil"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one.tamil"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two.tamil"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three.tamil"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four.tamil"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five.tamil"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six.tamil"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven.tamil"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight.tamil"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine.tamil"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon.tamil"/><!-- COLON -->
+      <map code="0x3b" name="semicolon.tamil"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less.tamil"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal.tamil"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater.tamil"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question.tamil"/><!-- QUESTION MARK -->
+      <map code="0x5b" name="bracketleft.tamil"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash.tamil"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright.tamil"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum.tamil"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore.tamil"/><!-- LOW LINE -->
+      <map code="0x7b" name="braceleft.tamil"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar.tamil"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright.tamil"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde.tamil"/><!-- TILDE -->
+      <map code="0xa0" name="space"/><!-- NO-BREAK SPACE -->
+      <map code="0xad" name="sfthyphen.tamil"/><!-- SOFT HYPHEN -->
+      <map code="0xd7" name="multiply.tamil"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide.tamil"/><!-- DIVISION SIGN -->
+      <map code="0x964" name="dandatamil"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="dbldandatamil"/><!-- DEVANAGARI DOUBLE DANDA -->
+      <map code="0xb82" name="anusvaratamil"/><!-- TAMIL SIGN ANUSVARA -->
+      <map code="0xb83" name="visargatamil"/><!-- TAMIL SIGN VISARGA -->
+      <map code="0xb85" name="atamil"/><!-- TAMIL LETTER A -->
+      <map code="0xb86" name="aatamil"/><!-- TAMIL LETTER AA -->
+      <map code="0xb87" name="itamil"/><!-- TAMIL LETTER I -->
+      <map code="0xb88" name="iitamil"/><!-- TAMIL LETTER II -->
+      <map code="0xb89" name="utamil"/><!-- TAMIL LETTER U -->
+      <map code="0xb8a" name="uutamil"/><!-- TAMIL LETTER UU -->
+      <map code="0xb8e" name="etamil"/><!-- TAMIL LETTER E -->
+      <map code="0xb8f" name="eetamil"/><!-- TAMIL LETTER EE -->
+      <map code="0xb90" name="aitamil"/><!-- TAMIL LETTER AI -->
+      <map code="0xb92" name="otamil"/><!-- TAMIL LETTER O -->
+      <map code="0xb93" name="ootamil"/><!-- TAMIL LETTER OO -->
+      <map code="0xb94" name="autamil"/><!-- TAMIL LETTER AU -->
+      <map code="0xb95" name="katamil"/><!-- TAMIL LETTER KA -->
+      <map code="0xb99" name="ngatamil"/><!-- TAMIL LETTER NGA -->
+      <map code="0xb9a" name="catamil"/><!-- TAMIL LETTER CA -->
+      <map code="0xb9c" name="jatamil"/><!-- TAMIL LETTER JA -->
+      <map code="0xb9e" name="nyatamil"/><!-- TAMIL LETTER NYA -->
+      <map code="0xb9f" name="ttatamil"/><!-- TAMIL LETTER TTA -->
+      <map code="0xba3" name="nnatamil"/><!-- TAMIL LETTER NNA -->
+      <map code="0xba4" name="tatamil"/><!-- TAMIL LETTER TA -->
+      <map code="0xba8" name="natamil"/><!-- TAMIL LETTER NA -->
+      <map code="0xba9" name="nnnatamil"/><!-- TAMIL LETTER NNNA -->
+      <map code="0xbaa" name="patamil"/><!-- TAMIL LETTER PA -->
+      <map code="0xbae" name="matamil"/><!-- TAMIL LETTER MA -->
+      <map code="0xbaf" name="yatamil"/><!-- TAMIL LETTER YA -->
+      <map code="0xbb0" name="ratamil"/><!-- TAMIL LETTER RA -->
+      <map code="0xbb1" name="rratamil"/><!-- TAMIL LETTER RRA -->
+      <map code="0xbb2" name="latamil"/><!-- TAMIL LETTER LA -->
+      <map code="0xbb3" name="llatamil"/><!-- TAMIL LETTER LLA -->
+      <map code="0xbb4" name="lllatamil"/><!-- TAMIL LETTER LLLA -->
+      <map code="0xbb5" name="vatamil"/><!-- TAMIL LETTER VA -->
+      <map code="0xbb6" name="shatamil"/><!-- TAMIL LETTER SHA -->
+      <map code="0xbb7" name="ssatamil"/><!-- TAMIL LETTER SSA -->
+      <map code="0xbb8" name="satamil"/><!-- TAMIL LETTER SA -->
+      <map code="0xbb9" name="hatamil"/><!-- TAMIL LETTER HA -->
+      <map code="0xbbe" name="aavowelsigntamil"/><!-- TAMIL VOWEL SIGN AA -->
+      <map code="0xbbf" name="ivowelsigntamil"/><!-- TAMIL VOWEL SIGN I -->
+      <map code="0xbc0" name="iivowelsigntamil"/><!-- TAMIL VOWEL SIGN II -->
+      <map code="0xbc1" name="uvowelsigntamil"/><!-- TAMIL VOWEL SIGN U -->
+      <map code="0xbc2" name="uuvowelsigntamil"/><!-- TAMIL VOWEL SIGN UU -->
+      <map code="0xbc6" name="evowelsigntamil"/><!-- TAMIL VOWEL SIGN E -->
+      <map code="0xbc7" name="eevowelsigntamil"/><!-- TAMIL VOWEL SIGN EE -->
+      <map code="0xbc8" name="aivowelsigntamil"/><!-- TAMIL VOWEL SIGN AI -->
+      <map code="0xbca" name="ovowelsigntamil"/><!-- TAMIL VOWEL SIGN O -->
+      <map code="0xbcb" name="oovowelsigntamil"/><!-- TAMIL VOWEL SIGN OO -->
+      <map code="0xbcc" name="auvowelsigntamil"/><!-- TAMIL VOWEL SIGN AU -->
+      <map code="0xbcd" name="viramatamil"/><!-- TAMIL SIGN VIRAMA -->
+      <map code="0xbd0" name="ohmsigntamil"/><!-- TAMIL OM -->
+      <map code="0xbd7" name="aulengthmarktamil"/><!-- TAMIL AU LENGTH MARK -->
+      <map code="0xbe6" name="zerotamil"/><!-- TAMIL DIGIT ZERO -->
+      <map code="0xbe7" name="onetamil"/><!-- TAMIL DIGIT ONE -->
+      <map code="0xbe8" name="twotamil"/><!-- TAMIL DIGIT TWO -->
+      <map code="0xbe9" name="threetamil"/><!-- TAMIL DIGIT THREE -->
+      <map code="0xbea" name="fourtamil"/><!-- TAMIL DIGIT FOUR -->
+      <map code="0xbeb" name="fivetamil"/><!-- TAMIL DIGIT FIVE -->
+      <map code="0xbec" name="sixtamil"/><!-- TAMIL DIGIT SIX -->
+      <map code="0xbed" name="seventamil"/><!-- TAMIL DIGIT SEVEN -->
+      <map code="0xbee" name="eighttamil"/><!-- TAMIL DIGIT EIGHT -->
+      <map code="0xbef" name="ninetamil"/><!-- TAMIL DIGIT NINE -->
+      <map code="0xbf0" name="tentamil"/><!-- TAMIL NUMBER TEN -->
+      <map code="0xbf1" name="hundredtamil"/><!-- TAMIL NUMBER ONE HUNDRED -->
+      <map code="0xbf2" name="thousandtamil"/><!-- TAMIL NUMBER ONE THOUSAND -->
+      <map code="0xbf3" name="daysigntamil"/><!-- TAMIL DAY SIGN -->
+      <map code="0xbf4" name="monthsigntamil"/><!-- TAMIL MONTH SIGN -->
+      <map code="0xbf5" name="yearsigntamil"/><!-- TAMIL YEAR SIGN -->
+      <map code="0xbf6" name="debitsigntamil"/><!-- TAMIL DEBIT SIGN -->
+      <map code="0xbf7" name="creditsigntamil"/><!-- TAMIL CREDIT SIGN -->
+      <map code="0xbf8" name="asabovesigntamil"/><!-- TAMIL AS ABOVE SIGN -->
+      <map code="0xbf9" name="rupeesigntamil"/><!-- TAMIL RUPEE SIGN -->
+      <map code="0xbfa" name="numsigntamil"/><!-- TAMIL NUMBER SIGN -->
+      <map code="0x200b" name="uniFEFF"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="uni200C.tamil"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="uni200D.tamil"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash.tamil"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash.tamil"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft.tamil"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright.tamil"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft.tamil"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright.tamil"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="ellipsis.tamil"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x20b9" name="uni20B9.tamil"/><!-- ???? -->
+      <map code="0x2212" name="minus.tamil"/><!-- MINUS SIGN -->
+      <map code="0x25cc" name="uni25CC.tamil"/><!-- DOTTED CIRCLE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
